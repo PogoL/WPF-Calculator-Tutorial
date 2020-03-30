@@ -1,0 +1,15 @@
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.g.cs
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\App.g.cs
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.cache
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.lref
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.exe
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.pdb
+C:\projekty\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe.config
+C:\projekty\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe
+C:\projekty\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.pdb
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\App.baml
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.baml
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.g.resources
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.Properties.Resources.resources
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\projekty\WpfTutorial\WpfTutorial\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
